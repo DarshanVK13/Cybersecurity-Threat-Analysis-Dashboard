@@ -69,15 +69,8 @@ Cybersecurity-Threat-Analysis-Dashboard/
 │
 ├── README.md
 ├── dashboard-preview.png
-│
-├── PowerBI/
-│   └── Cybersecurity-Threat-Analysis.pbix
-│
-├── Dataset/
-│   └── cybersecurity_dataset.csv
-│
-└── Documentation/
-    └── Project-Documentation.pdf
+└── Cybersecurity-Threat-Analysis.pbix
+
 ```
 
 ## How to Use
@@ -97,7 +90,8 @@ It showcases how raw security data can be transformed into interactive dashboard
 
 ## Author
 
-**[Your Name]**
+Darshan Kandalgaonkar
+
 
 GitHub: [Your GitHub Profile](https://github.com/)
 
